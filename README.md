@@ -171,19 +171,40 @@ python manage.py runserver
 - **Admin Portal**: http://127.0.0.1:8000/admin
 
 ---
-
 ## 📸 Screenshots
 
-### User Dashboard
-![User Dashboard](assets/screenshots/user_dashboard.png)
+### 🏠 Home Page
+![Home Page](image1.png)
 
-### Detection Result
-![Detection Result](assets/screenshots/detection_result.png)
+### 👤 User Registration
+![User Registration](image2.png)
 
-### Admin Dashboard
-![Admin Dashboard](assets/screenshots/admin_dashboard.png)
+### 🔐 User Login
+![User Login](image3.png)
 
-> 📁 Add your actual screenshots to `assets/screenshots/` folder
+### 📊 User Dashboard
+![User Dashboard](image4.png)
+
+### 📤 Upload Image
+![Upload Image](image5.png)
+
+### 🔍 Detection Result
+![Detection Result](image6.png)
+
+### 📋 Detection History
+![Detection History](image7.png)
+
+### 🔐 Admin Login
+![Admin Login](image8.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](image9.png)
+
+### 👥 Admin - User Management
+![User Management](image10.png)
+
+### 📊 Admin - All Detections
+![All Detections](image11.png)
 
 ---
 
