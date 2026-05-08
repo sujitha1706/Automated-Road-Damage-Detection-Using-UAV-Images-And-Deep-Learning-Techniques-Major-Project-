@@ -180,31 +180,27 @@ python manage.py runserver
 ![User Registration](image2.png)
 
 ### 🔐 User Login
-![User Login](image3.png)
+![User Login](image6.png)
 
 ### 📊 User Dashboard
-![User Dashboard](image4.png)
+![User Dashboard](image7.png)
 
 ### 📤 Upload Image
-![Upload Image](image5.png)
+![Upload Image](image8.png)
 
 ### 🔍 Detection Result
-![Detection Result](image6.png)
-
-### 📋 Detection History
-![Detection History](image7.png)
+![Detection Result](image9.png)
+![Detection Result](image10.png)
+![Detection Result](image11.png)
 
 ### 🔐 Admin Login
-![Admin Login](image8.png)
+![Admin Login](image3.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](image9.png)
+![Admin Dashboard](image4.png)
 
 ### 👥 Admin - User Management
-![User Management](image10.png)
-
-### 📊 Admin - All Detections
-![All Detections](image11.png)
+![User Management](image5.png)
 
 ---
 
